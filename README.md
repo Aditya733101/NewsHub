@@ -1,4 +1,4 @@
-<!-- ##
+##
 
 # NewsWallah - A News App
 
@@ -25,7 +25,7 @@ NewsWallah is a React-based news application that allows users to explore top he
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/prajwal-jadhav01/NewsWallah.git
+   git clone git@github.com:Aditya733101/NewsHub.git
    ```
 
 2. Navigate to the project directory:
@@ -74,4 +74,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 This project is licensed under the [MIT License](LICENSE).
 
---- -->
+---
