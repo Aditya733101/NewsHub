@@ -1,6 +1,6 @@
 ##
 
-# NewsWallah - A News App
+# NewsHub - A News App
 
 NewsWallah is a React-based news application that allows users to explore top headlines from various categories. The app fetches data from the [NewsAPI](https://newsapi.org/) and presents it in a user-friendly format.
 
